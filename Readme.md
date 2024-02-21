@@ -25,7 +25,7 @@ First, import the module in your Node.js application:
 
 ```javascript
 
-const  exchangeModule = require('./path/to/your/module');
+const { getAllExchangeRatesForCurrency ,getExchangeRate} = require('./path/to/your/module');
 
 ```
 
