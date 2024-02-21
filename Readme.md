@@ -45,7 +45,7 @@ const allExchangeRates= await getAllExchangeRatesForCurrency('USD')
 Retrieves the exchange rate between two currencies.
 
 ```javascript
-const exchangeRateUSDtoEUR=await getExchangeRate('USD', 'MGA')
+const exchangeRateUSDtoMGA=await getExchangeRate('USD', 'MGA')
 ```
 ## API Documentation
 
