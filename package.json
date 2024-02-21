@@ -1,0 +1,20 @@
+{
+  "name": "free_exchange_rate",
+  "version": "1.0.0",
+  "description": "This project is designed for currency exchange conversion without requiring an API Key",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "currency_conversion",
+    "exchange_rates",
+    "api-free",
+    "currency_converter",
+    "currency_exchange_utility",
+    "exchange_rate_calculator",
+    "api_less_currency_conversion"
+  ],
+  "author": "Rohan29",
+  "license": "ISC"
+}
